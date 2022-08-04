@@ -24,7 +24,7 @@ Knihovna cURL je podporována ve více než 50 programovacích jazycích.
 * teď můžete spustit ukázkové příklad, například test spojení:
 * python ping.py
 
-### :pray: Used libraries and recommended applications 
+### :pray: Použité knihovny a doporučené aplikace
 * Requests - jednoduchá HTTP knihovna pro Python  https://requests.readthedocs.io/en/latest/#
 * pro testování API můžete použít oblíbenou aplikaci Postman https://www.postman.com/downloads/
 
