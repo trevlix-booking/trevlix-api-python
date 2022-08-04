@@ -1,19 +1,19 @@
-# :heavy_check_mark: Trevlix API - Python examples
+# :heavy_check_mark: Trevlix API - Python příklady
 Jednoduché minimalistické Python příklady, jak používat Trevlix REST API (JSON).
 
-### :information_source: API documentation 
+### :information_source: API dokumentace
 * https://app.swaggerhub.com/apis-docs/trevlix/trevlix/0.4.0
 
-### :round_pushpin: Alternative PHP examples
-If you prefer PHP, you can find PHP examples here:
+### :round_pushpin: Alternativní příklady PHP
+Pokud preferujete PHP, najdete PHP příklady zde:
 https://github.com/trevlix-booking/trevlix-api
 
-### :round_pushpin: Alternative cURL examples
-If you do not use PHP or Pythen, you can find universal examples for cURL here:
+### :round_pushpin: Alternativní příklady cURL
+Pokud nepoužíváte PHP nebo Python, najdete univerzální příklady pro cURL zde:
 https://github.com/trevlix-booking/trevlix-api/blob/main/curl_examples.txt
-cURL library is supported in more than 50 programming languages.
+Knihovna cURL je podporována ve více než 50 programovacích jazycích.
 
-## :point_down: Installation 
+## :point_down: Instalace
 
 * stáhněte si tento kód ve formátu ZIP
 * rozbalte kód
