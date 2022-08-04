@@ -20,9 +20,9 @@ cURL library is supported in more than 50 programming languages.
 * enter your API key authentication data to the config.py file
 * you need the HTTP library requests for proper functionality
 * install it from the console like this:
-* # pip3 install requests
+* pip3 install requests
 * now you can run all sample examples, such as the connection test:
-* # python ping.py
+* python ping.py
 
 ### :pray: Used libraries and recommended applications 
 * Requests - simple HTTP library for Python  https://requests.readthedocs.io/en/latest/#
