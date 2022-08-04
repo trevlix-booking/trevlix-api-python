@@ -16,7 +16,7 @@ cURL library is supported in more than 50 programming languages.
 ## :point_down: Installation 
 
 * download this code in ZIP format
-* unzip the code to your web server's directory
+* unzip the code
 * enter your API key authentication data to the config.py file
 * you need the HTTP library requests for proper functionality
 * install it from the console like this:
