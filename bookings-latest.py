@@ -31,5 +31,9 @@ else:
 
 data = response.json()
 
+for booking in data["bookings"]:
+    name = booking["name"]
+    print(f"Booking name: {name}")
+
 # print (data)
-print ("Bookings: " + str(data['bookings']))
+print ("Bookings JSON: " + str(data['bookings']))
