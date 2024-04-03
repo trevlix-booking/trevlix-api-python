@@ -27,4 +27,5 @@ Knihovna cURL je podporována ve více než 50 programovacích jazycích.
 ### :pray: Použité knihovny a doporučené aplikace
 * Requests - jednoduchá HTTP knihovna pro Python  https://requests.readthedocs.io/en/latest/#
 * pro testování API můžete použít oblíbenou aplikaci Postman https://www.postman.com/downloads/
+* připravenou Postman kolekci Trevlix API endpointů najdete zde: https://github.com/trevlix-booking/trevlix-api/blob/main/doc/postman_collection.json
 
