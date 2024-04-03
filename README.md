@@ -27,4 +27,4 @@ cURL library is supported in more than 50 programming languages.
 ### :pray: Used libraries and recommended applications 
 * Requests - simple HTTP library for Python  https://requests.readthedocs.io/en/latest/#
 * you can use the popular Postman application for API testing https://www.postman.com/downloads/
-
+* you can find a ready Postman collection of Trevlix API endpoints here: https://github.com/trevlix-booking/trevlix-api/blob/main/doc/postman_collection.json
